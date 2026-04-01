@@ -1,6 +1,6 @@
 name: Python Unit Tests
 
-on: [push, pull_request] # Runs whenever you push code
+on: [push] # Runs whenever you push code
 
 jobs:
   test:
